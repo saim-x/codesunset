@@ -2,7 +2,6 @@
 
 import 'dart:ui';
 import 'developerinfo.dart';
-import 'package:share_plus/share_plus.dart';
 import '/main.dart';
 import 'home_page.dart';
 // import 'package:app/pages/home_page.dart';
